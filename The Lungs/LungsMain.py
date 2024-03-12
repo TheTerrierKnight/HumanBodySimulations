@@ -66,4 +66,4 @@ axs[1, 1].plot(t, np.full_like(t, V_lung), label='Lung volume')
 axs[1, 1].set_xlabel('Time (s)')
 axs[1, 1].set_ylabel
 
-plt.show()
+plt.show() # Shows the Chart
