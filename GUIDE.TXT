@@ -1,0 +1,5 @@
+INSTALL THESE LIBARIES WITH PIP:
+-NUMPY
+-MATPLOTLIB
+
+Found a Issue? Please Report it to me when possible.
